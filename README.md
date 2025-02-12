@@ -72,7 +72,7 @@ Your submission will be evaluated based on:
 
 Once you have completed the evaluation, submit the following:
 
-📂 A **GitHub repository** or a ZIP file containing your documentation, configuration files, and any relevant logs or screenshots.  
+📂 Clone this **GitHub repository** or provide a ZIP file containing your documentation, configuration files, and any relevant logs or screenshots.  
 📜 A **README file** summarizing your process and key findings.  
 
 ---
