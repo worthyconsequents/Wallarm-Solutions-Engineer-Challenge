@@ -22,7 +22,7 @@ By the end of this evaluation, you should be able to:
 
 Before you begin, ensure you have access to:
 
-- A **cloud or on-prem environment** that supports one of Wallarm’s [deployment methods](https://docs.wallarm.com/installation/supported-deployment-options/) (**Kubernetes, Docker, VM, etc.**).
+- A **cloud or desktop environment** that supports one of Wallarm’s [deployment methods](https://docs.wallarm.com/installation/supported-deployment-options/) (**Kubernetes, Docker, VM, etc.**).
 - A **backend application** or API endpoint to receive test traffic.
 - **GoTestWAF**: [GitHub Repository](https://github.com/wallarm/gotestwaf)
 - **Wallarm official documentation**: [Documentation Portal](https://docs.wallarm.com/)
