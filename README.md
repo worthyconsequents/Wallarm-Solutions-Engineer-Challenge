@@ -72,7 +72,7 @@ Your submission will be evaluated based on:
 
 Once you have completed the evaluation, submit the following:
 
-📂 Fork this **GitHub repository** and use it as a repository for your documentation, configuration files, and any relevant logs or screenshots.  
+📂 Fork this **GitHub repo** and use it as the repository for your documentation, configuration files, and any relevant logs or screenshots.  
 📜 A **README file** summarizing your process and key findings.  
 
 ---
