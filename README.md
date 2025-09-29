@@ -126,6 +126,8 @@ Errors
 
 ## Closing Thoughts
 It was very fun to deploy a filtering Node. It was fun to run the GoTestWAF tool and see the attacks coming into the application.
+
+
 📌 Completeness: Were all required tasks completed? ✅ Yes
 📌 Clarity: Is the documentation clear and well-structured? ✅ Yes
 📌 Troubleshooting: How well did you document and resolve any issues? ✅ Yes
